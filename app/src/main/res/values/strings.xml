@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DCCleaner</string>
+
+    //CheckPermissions' string source
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    //First page's string source
+    <string name="title">DCCleaner</string>
+    <string name="t_button">进入清理</string>
+
+    //Second page's string source
+    <string name="c_button">清理缓存</string>
+    <string name="c_textView">目前只清理QQ和WeChat</string>
+    <string name="r_textView">正在清理以下路径:</string>
+    <string name="p_textView">None</string>
+</resources>
